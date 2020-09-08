@@ -7,4 +7,3 @@ def rot13(Clair):
             else:   crypt += chr(result)
         else :  crypt += " "
     print(crypt)
-        
