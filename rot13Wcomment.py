@@ -1,3 +1,5 @@
+#rot13() --> TP 1,2,3 // rot13file() --> TP 4
+
 def rot13(Clair):
     crypt = ""
     for r in Clair : # pour chaque caractères
