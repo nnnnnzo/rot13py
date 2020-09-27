@@ -1,2 +1,2 @@
 # rot13py
-rot13 python encode and decode
+rot13 python that code and decode
