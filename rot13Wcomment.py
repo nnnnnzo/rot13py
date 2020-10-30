@@ -50,3 +50,4 @@ def v(txt):
     for i in range(len(txt)):
         crypt=chr((((ord(txt[i]%97)+(ord(eg[i])%97))%26)+97))
     print(crypt)
+# 12 sur 20 srx j'ai la haine
